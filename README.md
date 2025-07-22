@@ -17,4 +17,4 @@ This repository contains a simple Flutter to-do app that utilizes Firebase for b
 
 . Task Categories: Tasks can be organized into different categories or projects.
 
-### Professionl Course Project ✅
+### Professional Course Project ✅
